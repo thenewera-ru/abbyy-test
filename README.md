@@ -23,4 +23,4 @@ Model.Question -> Класс для описания вопроса с серв�
 
 # P.S. Login
 email: "abbyy@abbyy.com"
-password: "abbyyrocks"
+password: "admin1"
